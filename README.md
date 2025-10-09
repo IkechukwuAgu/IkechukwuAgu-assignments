@@ -237,6 +237,7 @@ displayTasks();
 #### 👨‍💻 Author
 
 **Name:** Ikechukwu Agu
+
 **Assignments:** 
 
 - Translator (if/else conditional statement)
