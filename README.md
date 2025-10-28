@@ -45,7 +45,7 @@ This structure keeps assignments isolated and easy to navigate.
 1. Clone the repository:
   
    ```bash
-   git clone https://github.com/<your-github-username>/assignments-repo.git
+   git clone git@github.com:IkechukwuAgu/IkechukwuAgu-assignments.git
    ```
 
    ### 👨‍💻 Author
