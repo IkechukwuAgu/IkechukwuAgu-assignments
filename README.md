@@ -15,6 +15,7 @@ and each folder includes a single `README.md` file describing the assignment.
 |2| [Todo-List](./Assignments/todoList/todoList.js) |[Todo-List.md](./Assignments/todoList/README.md) 
 |3| [Processor](./Assignments/processor/processor.js) | [Processor.md](./Assignments/processor/README.md)|
 |4|[Report](./Assignments/report/report.js) | [Report.md](./Assignments/report/README.md) |
+|5| [API-Processor](./Assignments/api-processor/api-processor.js) | [API-Processor.md](./Assignments/api-processor/README.md)
 |*| [README.md](./README.md) | Repository overview and guide |
 
 ---
